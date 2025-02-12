@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eswar Sai Santhosh M</h1>
 <h3 align="center">Data explorer and visualization enthusiast.</h3>
-<img align="right" alt="Designing" width"400"src="(https://images.squarespace-cdn.com/content/v1/5efb7a015dc2ac0077a81ea5/1f60b0ae-8b2a-4ee6-9f74-4140b4630e36/18a4949fc9c8067172d3b96e302e7097.gif)">
+<img align="right" alt="Designing" width"100" src="https://images.squarespace-cdn.com/content/v1/5efb7a015dc2ac0077a81ea5/1f60b0ae-8b2a-4ee6-9f74-4140b4630e36/18a4949fc9c8067172d3b96e302e7097.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eswarsaim&label=Profile%20views&color=0e75b6&style=flat" alt="eswarsaim" /> </p>
 
