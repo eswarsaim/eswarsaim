@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **muvvaeswarsai@gmail.com**
 
-- ⚡ Fun fact **I am a Graphic Designer**
+- ⚡ Fun fact **I am Crazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
